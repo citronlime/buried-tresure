@@ -1,0 +1,23 @@
+#congratulations{
+    display:none;
+}
+#distance{
+    position:absolute;
+    top:200px;
+    left:100px;
+    color: yellow;
+}
+#map{
+    max-width:800px;
+    width:100%;
+}
+#treasure{
+    position:absolute;
+    left: -200px;
+    top:0;
+    width:100px;
+}
+.displayTreasure{
+ left: 200px;
+ top:100px;
+}
