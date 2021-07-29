@@ -1,2 +1,2 @@
 # buried-tresure
-Find tresure game
+Find treasure game
